@@ -34,7 +34,7 @@ I will continue to update this repository with additional notebooks covering var
 
 **14. How_K-means_works:** <ul>K-means clustering is an unsupervised learning algorithm partitioning data into clusters. This notebook explains how the K-means algorithm works.</ul>
 
-**15. K-Means_Clustering:** <ul>Practical implementation of the K-means clustering algorithm using Python. This notebook demonstrates how to apply K-means clustering to real-world datasets.</ul>
+**15. K-Means_Clustering:** <ul>Practical implementation of the K-means clustering algorithm using Python. This notebook demonstrates how to use Silhouette Analysis to evaluate the quality of clusters created by clustering algorithms.</ul>
 
 **16. Hierarchical_Clustering:** <ul>Hierarchical clustering is another approach to clustering data based on their similarity. This notebook covers hierarchical clustering techniques and their applications.</ul>
 
